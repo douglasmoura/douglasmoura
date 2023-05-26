@@ -5,7 +5,7 @@
 <div align="center"> 
 
 ## 🔥 Sobre mim 🔥
-### Estudo programação já algum tempo tanto no back-end quanto no front-end, estou atrás de oportunidades para ingressar na área.
+### Estudo programação há algum tempo, tanto no back-end quanto no front-end, e estou em busca de oportunidades para ingressar na área.
 
 <p>
   <a href="https://github.com/douglasmoura">
